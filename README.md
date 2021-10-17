@@ -1,5 +1,5 @@
 
-<!doctype html>
+
 <html lang="en">
     <hr>
   <head>
@@ -71,7 +71,7 @@
             <img src="p3.jpg" width="100%" height="600" alt="...">
             <div class="carousel-caption d-none d-md-block">
               <h2>Connect...</h2>
-              <p>Some representative placeholder content for the third slide.</p>
+              <p>Some representative placeholder content for the third slide..</p>
             </div>
           </div>
         </div>
